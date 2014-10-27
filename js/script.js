@@ -17,4 +17,4 @@ $("#image").rotate({
      } 
 });
 
-// test_add
+// test_add_test
