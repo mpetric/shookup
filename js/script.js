@@ -16,3 +16,5 @@ $("#image").rotate({
         }    
      } 
 });
+
+// test_add
